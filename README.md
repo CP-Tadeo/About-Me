@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 I am Norberto Tadeo. I specialize in data visualization and analytics, primarily using Python. Knowledgeable in R too. 
 
